@@ -5,7 +5,7 @@ sense = SenseHat()
 #colours
 B = (0,0,255)
 G = (0,255,0)
-O = (0,0,0)
+O = (100,50,75)
 #Letter B
 
 def b():
